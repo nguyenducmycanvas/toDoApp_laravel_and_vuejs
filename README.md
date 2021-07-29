@@ -17,6 +17,7 @@
 
 
 ### Setup Guide
+* Setup docker with PHP, MySQL and phpadmin
 * Laravel
 * VueJS, VueX, Vue debug Tool
 
