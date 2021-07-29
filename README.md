@@ -1,3 +1,15 @@
+## Add app to docker project
+in html/toDoApp dir
+
+<pre>
+$git init
+$git remote add origin https://github.com/nguyenducmycanvas/toDoApp_laravel_and_vuejs.git (or any laravel app)
+$git checkout -b develop
+$git add .
+$git commit -am "init source"
+$git push -u origin HEAD
+</pre>
+
 ## Learn Laravel and Vue JS
 * How to do toDO App with Laravel 8 and Vuejs
 * Ask task for ech toDo
