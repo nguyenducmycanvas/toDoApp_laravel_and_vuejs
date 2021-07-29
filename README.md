@@ -20,9 +20,7 @@
 * Laravel
 * VueJS, VueX, Vue debug Tool
 
-Preference
-
-参考
+Preference (参考)
 
 https://viblo.asia/helps/cach-su-dung-markdown-bxjvZYnwkJZ
 
