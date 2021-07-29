@@ -27,4 +27,11 @@ Preference
 https://viblo.asia/helps/cach-su-dung-markdown-bxjvZYnwkJZ
 
 https://www.markdownguide.org/basic-syntax
+
+
+How to change repo visibilily in Github?
+
+https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/setting-repository-visibility
+
+Thanks!
  
