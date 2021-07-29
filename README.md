@@ -3,9 +3,22 @@
 * Ask task for ech toDo
 * Check statuc of task
 
+### Plan
+* Create ER
+* Create mirgation
+* Seeding
+* Create API with Laravel Controller
+* Test API
+* Config View Template in VuejS
+* What action will do in VueJS component
+* Using VueX
+* Should apply auth to this app?
+* What is the workflow?
 
 
-
+### Setup Guide
+* Laravel
+* VueJS, VueX, Vue debug Tool
 
 Preference
 
